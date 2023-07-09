@@ -4,7 +4,7 @@ The app is hosted through Heroku.
 Heroku 'Procfile' is used to include the commands that need to be executed by the app on startup
 
 ### Link to the App
-https://weather-app-sumana-14c0c45076cf.herokuapp.com/
+https://simple-weather-app-react-node-eb4357ebe709.herokuapp.com/
 
 
 ### To test the app locally:
