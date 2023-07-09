@@ -1,5 +1,3 @@
-# simple-weather-app-react-node
-
 This is a weather app written in Node+React
 
 The app is hosted through Heroku.
