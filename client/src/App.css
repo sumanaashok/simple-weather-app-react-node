@@ -1,0 +1,11 @@
+.Display_blocks {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.title{
+  text-align: center;
+  margin: 50px auto;
+  font-size: 30px;
+  color: rgba(240, 248, 255, 0.758);
+}
